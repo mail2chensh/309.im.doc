@@ -28,22 +28,7 @@
 ## 3 项目周期
 ##### 3.1 网站开发周期
 
-<style type="text/css">
-	table.tableizer-table {
-	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif
-	font-size: 12px;
-} 
-.tableizer-table td {
-	padding: 4px;
-	margin: 3px;
-	border: 1px solid #ccc;
-}
-.tableizer-table th {
-	background-color: #104E8B; 
-	color: #FFF;
-	font-weight: bold;
-}
-</style><table class="tableizer-table">
+<table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>&#24320;&#22987;&#26102;&#38388;</th><th>&#32467;&#26463;&#26102;&#38388;</th><th>&#23436;&#25104;&#36827;&#24230;</th></tr>
  <tr><td></td><td></td><td></td></tr>
  <tr><td></td><td></td><td></td></tr>
@@ -52,29 +37,7 @@
 
 ##### 3.2 移动后台接口开发周期
 
-*开始时间*	*结束时间*	*完成进度*
-14.11.1	14.11.20	后台接口的初步划分；确立与客户端采用的通讯协议
-14.11.21	14.12.10	完成博文接口的细化
-14.12.11	14.12.25	完成广场接口的细化
-14.12.26	15.1.15	完成个人信息的接口细化
-15.1.16	15.1.20	进行测试排查，完成一个小版本
-
-<style type="text/css">
-	table.tableizer-table {
-	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif
-	font-size: 12px;
-} 
-.tableizer-table td {
-	padding: 4px;
-	margin: 3px;
-	border: 1px solid #ccc;
-}
-.tableizer-table th {
-	background-color: #104E8B; 
-	color: #FFF;
-	font-weight: bold;
-}
-</style><table class="tableizer-table">
+<table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>&#24320;&#22987;&#26102;&#38388;</th><th>&#32467;&#26463;&#26102;&#38388;</th><th>&#23436;&#25104;&#36827;&#24230;</th></tr>
  <tr><td>14.11.1</td><td>14.11.20</td><td>&#21518;&#21488;&#25509;&#21475;&#30340;&#21021;&#27493;&#21010;&#20998;&#65307;&#30830;&#31435;&#19982;&#23458;&#25143;&#31471;&#37319;&#29992;&#30340;&#36890;&#35759;&#21327;&#35758;</td></tr>
  <tr><td>14.11.21</td><td>14.12.10</td><td>&#23436;&#25104;&#21338;&#25991;&#25509;&#21475;&#30340;&#32454;&#21270;</td></tr>
@@ -86,29 +49,7 @@
 
 ##### 3.3 移动客户端开发周期
 
-开始时间	结束时间	完成进度
-14.11.1	14.11.20	客户端模块类型的划分、app框架的确立
-14.11.21	14.12.10	写好基础的通讯模块。博文模块的编写。
-14.12.11	14.12.25	与后台进行博文接口调试。编写广场模块。
-14.12.26	15.1.15	与后台广场接口调试。个人信息模块的编写。
-15.1.16	15.1.20	与后台个人信息模块接口调试。进行测试排查，完成一个小版本。
-
-<style type="text/css">
-	table.tableizer-table {
-	border: 1px solid #CCC; font-family: Arial, Helvetica, sans-serif
-	font-size: 12px;
-} 
-.tableizer-table td {
-	padding: 4px;
-	margin: 3px;
-	border: 1px solid #ccc;
-}
-.tableizer-table th {
-	background-color: #104E8B; 
-	color: #FFF;
-	font-weight: bold;
-}
-</style><table class="tableizer-table">
+<table class="tableizer-table">
 <tr class="tableizer-firstrow"><th>&#24320;&#22987;&#26102;&#38388;</th><th>&#32467;&#26463;&#26102;&#38388;</th><th>&#23436;&#25104;&#36827;&#24230;</th></tr>
  <tr><td>14.11.1</td><td>14.11.20</td><td>&#23458;&#25143;&#31471;&#27169;&#22359;&#31867;&#22411;&#30340;&#21010;&#20998;&#12289;app&#26694;&#26550;&#30340;&#30830;&#31435;</td></tr>
  <tr><td>14.11.21</td><td>14.12.10</td><td>&#20889;&#22909;&#22522;&#30784;&#30340;&#36890;&#35759;&#27169;&#22359;&#12290;&#21338;&#25991;&#27169;&#22359;&#30340;&#32534;&#20889;&#12290;</td></tr>
